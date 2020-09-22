@@ -1,0 +1,27 @@
+{
+  "name": "eat-da-burger-app",
+  "version": "1.0.0",
+  "description": "App that lets users input the names of burgers they would like to eat.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudidankk/13-WEEK_HOMEWORK-BCS.git"
+  },
+  "keywords": [
+    "homework-13"
+  ],
+  "author": "Rudi Danquah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudidankk/13-WEEK_HOMEWORK-BCS/issues"
+  },
+  "homepage": "https://github.com/rudidankk/13-WEEK_HOMEWORK-BCS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
